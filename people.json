@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1088,
+    "name": "William Peters Sr.",
+    "birth_date": null,
+    "birth_place": null,
+    "death_date": null,
+    "death_place": null,
+    "father_id": null,
+    "mother_id": null,
+    "spouses": [
+      {
+        "id": 1089,
+        "name": "Rebecca Bear",
+        "marriage_date": null,
+        "marriage_place": "Burrows, Indiana"
+      }
+    ],
+    "children_ids": [
+      960
+    ]
+  },
+  {
+    "id": 1089,
+    "name": "Rebecca Bear",
+    "birth_date": null,
+    "birth_place": null,
+    "death_date": null,
+    "death_place": null,
+    "father_id": null,
+    "mother_id": null,
+    "spouses": [
+      {
+        "id": 1088,
+        "name": "William Peters Sr.",
+        "marriage_date": null,
+        "marriage_place": "Burrows, Indiana"
+      }
+    ],
+    "children_ids": [
+      960
+    ]
+  },
+  {
+    "id": 960,
+    "name": "William Harvey Peters",
+    "birth_date": null,
+    "birth_place": null,
+    "death_date": null,
+    "death_place": null,
+    "father_id": 1088,
+    "mother_id": 1089,
+    "spouses": [
+      {
+        "id": 971,
+        "name": "Jane Allen",
+        "marriage_date": null,
+        "marriage_place": null
+      }
+    ],
+    "children_ids": [
+      177
+    ]
+  },
+  {
+    "id": 971,
+    "name": "Jane Allen",
+    "birth_date": "1855-12-06",
+    "birth_place": "London, England",
+    "death_date": null,
+    "death_place": null,
+    "father_id": 1085,
+    "mother_id": 1086,
+    "spouses": [
+      {
+        "id": 960,
+        "name": "William Harvey Peters",
+        "marriage_date": null,
+        "marriage_place": null
+      }
+    ],
+    "children_ids": [
+      177
+    ]
+  },
+  {
+    "id": 1085,
+    "name": "Joseph Allen",
+    "birth_date": null,
+    "birth_place": null,
+    "death_date": "1951-10-12",
+    "death_place": "Logansport, Indiana",
+    "father_id": null,
+    "mother_id": null,
+    "spouses": [
+      {
+        "id": 1086,
+        "name": "Rebecca Linton",
+        "marriage_date": null,
+        "marriage_place": null
+      }
+    ],
+    "children_ids": [
+      971,
+      1087
+    ]
+  },
+  {
+    "id": 1086,
+    "name": "Rebecca Linton",
+    "birth_date": null,
+    "birth_place": null,
+    "death_date": null,
+    "death_place": null,
+    "father_id": null,
+    "mother_id": null,
+    "spouses": [
+      {
+        "id": 1085,
+        "name": "Joseph Allen",
+        "marriage_date": null,
+        "marriage_place": null
+      }
+    ],
+    "children_ids": [
+      971,
+      1087
+    ]
+  }
+]
